@@ -1,0 +1,23 @@
+{
+    "name": "juraly/juraly",
+    "description": "正在开发...",
+    "keywords": ["PHP"],
+    "homepage": "https://github.com/juraly/juraly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qvil Young",
+            "homepage": "https://github.com/Qvil-Young",
+            "email": "qvil_young@163.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Juraly\\": ""
+        }
+    }
+}
